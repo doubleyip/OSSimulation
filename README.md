@@ -23,5 +23,7 @@ P p -current process in Printer p finishes the current process which re-enters C
 example: P 8
 
 S r -Shows the process in the CPU queues and the order in which they will enter the CPU
+
 S i -Shows the process in the HDD and Printers queues
+
 S m -Shows which processes are using which block of memory
